@@ -1,0 +1,1 @@
+var_enemy_timeToAttack = 20

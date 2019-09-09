@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_Menu_Selector,var_menu_select,x,y,1,1,0,c_white,1)

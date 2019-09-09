@@ -1,0 +1,7 @@
+instance_create_depth(x,y,0,obj_enemy04_prijectile2)
+instance_create_depth(x,y,0,obj_enemy04_prijectile2)
+instance_create_depth(x,y,0,obj_enemy04_prijectile2)
+instance_create_depth(x,y,0,obj_enemy04_prijectile2)
+instance_create_depth(x,y,0,obj_enemy04_prijectile2)
+instance_create_depth(x,y,0,obj_enemy04_prijectile2)
+instance_destroy(self)

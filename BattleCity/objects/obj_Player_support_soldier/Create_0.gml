@@ -1,0 +1,9 @@
+var_soldier_mode = "walk"
+var_soldier_dir = 1
+var_soldier_speed = 0.5
+var_soldier_attack = ""
+var_soldier_araundType = ""
+var_soldier_araundTime = 100
+var_soldier_araundCan = 1
+var_soldier_araundDirection = ""
+var_nearst = ""

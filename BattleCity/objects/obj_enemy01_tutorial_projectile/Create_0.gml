@@ -1,0 +1,1 @@
+var_enemy_projectileMode = 0

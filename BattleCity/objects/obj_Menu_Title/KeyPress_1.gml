@@ -1,0 +1,1 @@
+var_menu_pressAnyKey = 1

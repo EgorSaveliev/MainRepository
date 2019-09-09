@@ -1,0 +1,1 @@
+var_block_hp = 100
